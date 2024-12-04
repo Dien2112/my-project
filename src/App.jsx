@@ -10,7 +10,7 @@ function App() {
     <div class="bg-gradient-to-b from-green-400 to-blue-400 w-screen h-screen flex items-center justify-center">
       <div class= "bg-white w-[500px] h-[500px] items-start justify-start">
           <div class="flex items-center ">
-            <img class="h-[80px] w-[80px]" src="../icons.png" alt="image description"/>
+            <img class="h-[80px] w-[80px]" src="./icons.png" alt="image description"/>
             <p class="font-bold font-mono">LibraryCore</p>
           </div>
 
