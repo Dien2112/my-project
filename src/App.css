@@ -38,3 +38,14 @@
 .read-the-docs {
   color: #888;
 }
+.input-underline {
+  border: none;
+  border-bottom: 2px solid gray;
+  outline: none;
+  padding: 8px;
+  transition: border-bottom-color 0.3s;
+}
+
+.input-underline:focus {
+  border-bottom-color: blue;
+}
