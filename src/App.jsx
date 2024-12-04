@@ -18,6 +18,10 @@ function App() {
 
         <input class="items-start ml-5" placeholder="username"/>
 
+        <input class="item-stert ml=5" type = "password" placeholder="password"/>
+
+        <p>Do not have a password? <href>Create an account</href></p>
+
       </div>
 
     </div>
